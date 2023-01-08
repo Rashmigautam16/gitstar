@@ -12,8 +12,7 @@ const Allroutes = () => {
         <Route path='/html' element={<Html/>} ></Route>
         <Route path='/css' element={<Css/>} ></Route>
         <Route path='/javascript' element={<Javascript/>} ></Route>
-
-    </Routes>
+   </Routes>
   )
 }
 
