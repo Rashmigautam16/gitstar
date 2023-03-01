@@ -1,5 +1,7 @@
 <h1> Star Wars</h1>
 # Tech Stacks :- HTML | CSS | JAVASCRIPT 
 
-![Screenshot (1146)](https://user-images.githubusercontent.com/103721591/222064683-7865030c-ea4e-42a5-8dd3-99c063839035.png)
-![Screenshot (1147)](https://user-images.githubusercontent.com/103721591/222064736-b5e24572-8cf7-48fd-8b95-7dcb12417624.png)
+
+![Screenshot (1149)](https://user-images.githubusercontent.com/103721591/222065057-ba19c437-89c6-404f-a3bd-fdeb809c666d.png)
+
+![Screenshot (1148)](https://user-images.githubusercontent.com/103721591/222065079-9d380af0-5f37-4f68-9c2b-d895b04774bd.png)
